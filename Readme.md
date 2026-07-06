@@ -2,21 +2,22 @@ LIM Accessibility Resources collection
 
 # Video
 ## Strumenti musicali
-- Some demos of our instruments:
-  
-<iframe width="280" height="158" src="https://www.youtube.com/embed/owJE9MXFDjo" title="Some demos of our instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- Headbower (presentation):
-  <iframe width="280" height="158" src="https://www.youtube.com/embed/v4bi33nPPbk" title="Headbower presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- Resin (presentation):
-  <iframe width="280" height="158" src="https://www.youtube.com/embed/CEBNtHgaiqI" title="Resin presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- Resin (demo and explanation):
-  <iframe width="280" height="158" src="https://www.youtube.com/embed/fB-MRQ6_yR4" title="Resin demo and explanation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- Netytar (demo):
-  <iframe width="280" height="158" src="https://www.youtube.com/embed/Jf-_LkFmhbQ" title="Netytar demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- Netychords (demo):
-  <iframe width="280" height="158" src="https://www.youtube.com/embed/D18603o46ho" title="Netychords demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- DJeye (demo):
-  <iframe width="280" height="158" src="https://www.youtube.com/embed/-bs08Ohdr7w" title="DJeye demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+GitHub does not render embedded iframes in Markdown READMEs, so the videos below are shown as clickable preview thumbnails.
+
+- Some demos of our instruments:  
+  [![Some demos of our instruments](https://img.youtube.com/vi/owJE9MXFDjo/hqdefault.jpg)](https://www.youtube.com/watch?v=owJE9MXFDjo)
+- Headbower (presentation):  
+  [![Headbower presentation](https://img.youtube.com/vi/v4bi33nPPbk/hqdefault.jpg)](https://www.youtube.com/watch?v=v4bi33nPPbk)
+- Resin (presentation):  
+  [![Resin presentation](https://img.youtube.com/vi/CEBNtHgaiqI/hqdefault.jpg)](https://www.youtube.com/watch?v=CEBNtHgaiqI)
+- Resin (demo and explanation):  
+  [![Resin demo and explanation](https://img.youtube.com/vi/fB-MRQ6_yR4/hqdefault.jpg)](https://www.youtube.com/watch?v=fB-MRQ6_yR4)
+- Netytar (demo):  
+  [![Netytar demo](https://img.youtube.com/vi/Jf-_LkFmhbQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Jf-_LkFmhbQ)
+- Netychords (demo):  
+  [![Netychords demo](https://img.youtube.com/vi/D18603o46ho/hqdefault.jpg)](https://www.youtube.com/watch?v=D18603o46ho)
+- DJeye (demo):  
+  [![DJeye demo](https://img.youtube.com/vi/-bs08Ohdr7w/hqdefault.jpg)](https://www.youtube.com/watch?v=-bs08Ohdr7w)
 
 ## Tutorials
 - How to download and install our instruments: https://www.youtube.com/watch?v=cuS3y8yHozM
