@@ -1,32 +1,61 @@
 LIM Accessibility Resources collection
 
+# Musical instruments
+## Netytar
+A monophonic instrument controlled by gaze tracking and breath, as well as other many customizable means.
+Repository: https://github.com/LIMUNIMI/Netytar
+Web implementation (thanks to Anna Fusari): https://neeqstock.notion.site/NetytarWeb-d6c7aeaa8c1c4a289ddee7a6cdd7d8a6
+
+## Netychords
+A polyphonic instrument for playing chords using gaze tracking and head rotation.
+(Thanks to Matteo De Filippis)
+Repository: https://github.com/LIMUNIMI/Netychords
+
+## Resin
+A monophonic instrument for playing melodies using resonances internal to the vocal tract and head movements
+Repository: https://github.com/LIMUNIMI/Resin
+
+## Kiroll
+A monophonic instrument for playing melodies based on gaze tracking and breath, which introduces a new particular layout based on smooth pursuit.
+Repository: https://github.com/LIMUNIMI/Kiroll
+
+## DJeye
+A gaze-based interface for DJing using gaze tracking (thanks to Fabio Bottarelli)
+Repository: https://github.com/LIMUNIMI/djeye
+
+## Headbower
+A violin controller which uses multiple interaction channels, including head rotation and mouth aperture.
+Repository: https://github.com/LIMUNIMI/headbower
+
 # Video
 ## Strumenti musicali
-GitHub does not render embedded iframes in Markdown READMEs, so the videos below are shown as clickable preview thumbnails.
+Some videos of the musical instruments we developed
 
-- Some demos of our instruments:  
-  [![Some demos of our instruments](https://img.youtube.com/vi/owJE9MXFDjo/hqdefault.jpg)](https://www.youtube.com/watch?v=owJE9MXFDjo)
-- Headbower (presentation):  
-  [![Headbower presentation](https://img.youtube.com/vi/v4bi33nPPbk/hqdefault.jpg)](https://www.youtube.com/watch?v=v4bi33nPPbk)
-- Resin (presentation):  
-  [![Resin presentation](https://img.youtube.com/vi/CEBNtHgaiqI/hqdefault.jpg)](https://www.youtube.com/watch?v=CEBNtHgaiqI)
-- Resin (demo and explanation):  
-  [![Resin demo and explanation](https://img.youtube.com/vi/fB-MRQ6_yR4/hqdefault.jpg)](https://www.youtube.com/watch?v=fB-MRQ6_yR4)
-- Netytar (demo):  
-  [![Netytar demo](https://img.youtube.com/vi/Jf-_LkFmhbQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Jf-_LkFmhbQ)
-- Netychords (demo):  
-  [![Netychords demo](https://img.youtube.com/vi/D18603o46ho/hqdefault.jpg)](https://www.youtube.com/watch?v=D18603o46ho)
-- DJeye (demo):  
-  [![DJeye demo](https://img.youtube.com/vi/-bs08Ohdr7w/hqdefault.jpg)](https://www.youtube.com/watch?v=-bs08Ohdr7w)
+- Some demos of our instruments  
+  [![Preview](https://img.youtube.com/vi/owJE9MXFDjo/hqdefault.jpg)](https://www.youtube.com/watch?v=owJE9MXFDjo)
+- Headbower (presentation)  
+  [![Preview](https://img.youtube.com/vi/v4bi33nPPbk/hqdefault.jpg)](https://www.youtube.com/watch?v=v4bi33nPPbk)
+- Resin (presentation)  
+  [![Preview](https://img.youtube.com/vi/CEBNtHgaiqI/hqdefault.jpg)](https://www.youtube.com/watch?v=CEBNtHgaiqI)
+- Resin (demo and explanation)  
+  [![Preview](https://img.youtube.com/vi/fB-MRQ6_yR4/hqdefault.jpg)](https://www.youtube.com/watch?v=fB-MRQ6_yR4)
+- Netytar (demo)  
+  [![Preview](https://img.youtube.com/vi/Jf-_LkFmhbQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Jf-_LkFmhbQ)
+- Netychords (demo)  
+  [![Preview](https://img.youtube.com/vi/D18603o46ho/hqdefault.jpg)](https://www.youtube.com/watch?v=D18603o46ho)
+- DJeye (demo)  
+  [![Preview](https://img.youtube.com/vi/-bs08Ohdr7w/hqdefault.jpg)](https://www.youtube.com/watch?v=-bs08Ohdr7w)
 
 ## Tutorials
 - How to download and install our instruments: https://www.youtube.com/watch?v=cuS3y8yHozM
 
 # Presentazioni e slides
 
-# NITH
+# NITH framework
 ## Video tutorial
-Risorse per il tutorial video: https://github.com/LIMUNIMI/NITHtutorialVideo
+
+Resources and supplementary materials for the video tutorial: https://github.com/LIMUNIMI/NITHtutorialVideo
+
 
 ## Librerie
 ### NITHlibrary
@@ -68,7 +97,9 @@ _A simple but complete of NITH application._
 Repository: https://github.com/LIMUNIMI/NITHexample
 
 # Papers
+Nicola Davanzo's Google Scholar: https://scholar.google.com/citations?user=m2J2uJcAAAAJ&hl=it
 
-# NITH framework
+# Thesis and project ideas
 
-# Idee di lavoro e di tesi
+# Extras
+Nicola Davanzo's personal website with extra informations: https://neeqstock.notion.site/NetytarWeb-d6c7aeaa8c1c4a289ddee7a6cdd7d8a6
